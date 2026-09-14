@@ -1,0 +1,23 @@
+{
+  "name": "prospector-de-sites",
+  "version": "1.0.0",
+  "description": "Funil assistido de prospecção, redesign, publicação, proposta, follow-up e contratação de sites.",
+  "author": {
+    "name": "Alexandra Laurino"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Prospector de Sites",
+    "shortDescription": "Funil completo de prospecção e venda de sites.",
+    "longDescription": "Encontra empresas no Google Maps, qualifica sites fracos, cria redesigns e comparativos, publica previews, prepara propostas, acompanha respostas e gera contratos.",
+    "developerName": "Alexandra Laurino",
+    "category": "Productivity",
+    "capabilities": ["Pesquisa", "Criação de sites", "CRM", "Publicação", "E-mail"],
+    "brandColor": "#6D5EF7",
+    "defaultPrompt": [
+      "Configurar o Prospector de Sites",
+      "Prospectar empresas por nicho e cidade",
+      "Continuar o funil dos leads atuais"
+    ]
+  }
+}
