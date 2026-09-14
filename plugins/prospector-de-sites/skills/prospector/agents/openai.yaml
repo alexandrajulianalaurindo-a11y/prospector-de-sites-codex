@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prospector de Sites"
+  short_description: "Funil completo de prospecção e venda de sites"
+  default_prompt: "Configure e execute meu funil Prospector de Sites."
