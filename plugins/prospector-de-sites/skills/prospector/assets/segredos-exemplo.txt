@@ -1,0 +1,7 @@
+# Renomeie para .prospector-secrets dentro da pasta de operação.
+# Nunca envie este arquivo pelo chat, e-mail, Notion ou Git.
+PROSPECTOR_HOST=servidor.exemplo.com
+PROSPECTOR_PORT=22
+PROSPECTOR_USER=usuario_sftp_restrito
+PROSPECTOR_KEY_FILE=C:\\caminho\\chave_sftp
+# Para FTPS/FTP, use PROSPECTOR_PASSWORD e altere protocolo no config.
